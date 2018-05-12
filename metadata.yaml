@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Edmond_de_Goncourt
     - http://fr.wikipedia.org/wiki/Edmond_de_Goncourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18724#Hokousa-L-art-japonais-au-XVII-Si-cle
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2006-07-01'
 gutenberg_type: Text
