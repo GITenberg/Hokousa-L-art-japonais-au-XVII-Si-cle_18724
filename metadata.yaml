@@ -1,0 +1,36 @@
+_repo: Hokousa-L-art-japonais-au-XVII-Si-cle_18724
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goncourt, Edmond de
+    aliases:
+    - Goncourt, Edmond Louis Antoine Huot de
+    - De Goncourt, Edmond
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '5693'
+    url: http://www.gutenberg.org/2009/agents/5693
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Edmond_de_Goncourt
+    - http://fr.wikipedia.org/wiki/Edmond_de_Goncourt
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2006-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18724'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Katsushika, Hokusai, 1760-1849'
+- !lcc 'ND'
+- !lcsh 'Art, Japanese -- Edo period, 1600-1868'
+title: 'Hokousaï
+
+  L''art japonais au XVII Siècle'
+url: http://www.gutenberg.org/ebooks/18724
